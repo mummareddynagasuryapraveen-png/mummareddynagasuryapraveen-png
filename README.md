@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi 👋, I'm Naga Surya Praveen
 
-<!--
-**mummareddynagasuryapraveen-png/mummareddynagasuryapraveen-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 2nd Year B.Tech CSE Core Student
 
-Here are some ideas to get you started:
+💻 I am interested in programming, problem solving, data analysis and software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+### Programming
+- C
+- C++
+- Python
+- SQL
+
+### Data Analysis
+- NumPy
+- Pandas
+- Matplotlib
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Jupyter Notebook
+
+## 🌱 Currently Learning
+
+- C++ and DSA
+- DBMS
+- Data Analysis
+- AI/ML
+- Git and GitHub
+
+## 🚀 Projects
+
+- IPL Cricket Data Analysis
+- Software Management System
+- Menu Driven Calculator
+
+## 🎯 Goal
+
+To continuously improve my programming, problem-solving
+and software development skills.
